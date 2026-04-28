@@ -1,0 +1,17 @@
+node_modules/
+dist/
+release/
+backend/build/
+backend/dist/
+backend/__pycache__/
+*.log
+.env
+.DS_Store
+Thumbs.db
+backend/loom_backend/
+
+release/
+
+dist/
+
+node_modules/
